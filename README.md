@@ -1,4 +1,4 @@
 # Fake-error
 For student faking their PC ded
-### WEB :  https://hailongcoding.github.io/Fake-error/Blue-screen.html
-###        https://hailongcoding.github.io/Fake-error/black.html
+### Blue screen of death :  https://hailongcoding.github.io/Fake-error/Blue-screen.html
+### Black screen : https://hailongcoding.github.io/Fake-error/black.html
