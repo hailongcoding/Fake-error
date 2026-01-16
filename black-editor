@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+    <title> ⌈ Black editor ⌋ </title>
+    <style>
+        textarea{cursor:none}
+        textarea{color: darkgrey ; background-color:black;outline:none;border: 2px black;}
+        textarea:focus{color: darkgrey ; background-color:black;outline:none;border: 2px black;}
+        html{cursor:none}
+        html{background-color: black;}
+    </style>
+</html>
